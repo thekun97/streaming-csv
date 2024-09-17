@@ -1,0 +1,1001 @@
+user_id,segment_type
+421,Psychographic
+374,Psychographic
+329,Technographic
+482,Technographic
+223,Firmographic
+963,Customer data
+9,Customer data
+835,Customer data
+893,Psychographic
+112,Psychographic
+50,Firmographic
+571,Firmographic
+77,Firmographic
+382,Psychographic
+913,Psychographic
+299,Demographic
+211,Psychographic
+994,Behavioral
+988,Technographic
+930,Firmographic
+597,Behavioral
+590,Technographic
+910,Firmographic
+163,Firmographic
+923,Technographic
+278,Demographic
+719,Customer data
+88,Psychographic
+366,Firmographic
+760,Psychographic
+729,Behavioral
+560,Firmographic
+245,Behavioral
+560,Customer data
+208,Firmographic
+16,Customer data
+183,Technographic
+51,Customer data
+33,Psychographic
+762,Technographic
+724,Customer data
+771,Demographic
+831,Demographic
+508,Technographic
+805,Firmographic
+296,Customer data
+849,Demographic
+588,Firmographic
+530,Firmographic
+495,Customer data
+76,Demographic
+665,Behavioral
+952,Behavioral
+290,Firmographic
+879,Technographic
+293,Technographic
+93,Behavioral
+311,Technographic
+48,Demographic
+167,Customer data
+526,Firmographic
+324,Technographic
+649,Technographic
+46,Technographic
+23,Customer data
+777,Behavioral
+147,Behavioral
+760,Demographic
+444,Customer data
+825,Technographic
+873,Behavioral
+849,Psychographic
+58,Psychographic
+703,Technographic
+568,Firmographic
+339,Firmographic
+322,Behavioral
+180,Psychographic
+646,Psychographic
+840,Firmographic
+282,Demographic
+128,Demographic
+117,Psychographic
+282,Behavioral
+712,Technographic
+886,Technographic
+500,Demographic
+130,Customer data
+975,Technographic
+873,Firmographic
+911,Technographic
+170,Psychographic
+702,Technographic
+128,Behavioral
+615,Technographic
+646,Customer data
+390,Firmographic
+920,Technographic
+606,Demographic
+317,Firmographic
+898,Firmographic
+147,Technographic
+202,Behavioral
+263,Firmographic
+127,Technographic
+716,Behavioral
+940,Behavioral
+381,Customer data
+276,Technographic
+97,Behavioral
+446,Demographic
+340,Behavioral
+148,Behavioral
+737,Behavioral
+690,Firmographic
+602,Psychographic
+707,Behavioral
+658,Customer data
+494,Firmographic
+500,Psychographic
+565,Firmographic
+682,Psychographic
+104,Firmographic
+183,Firmographic
+235,Behavioral
+484,Customer data
+842,Demographic
+666,Firmographic
+220,Technographic
+317,Behavioral
+148,Psychographic
+210,Technographic
+283,Psychographic
+753,Behavioral
+904,Technographic
+784,Technographic
+206,Demographic
+326,Psychographic
+855,Customer data
+968,Behavioral
+236,Psychographic
+691,Demographic
+757,Customer data
+467,Firmographic
+921,Technographic
+638,Behavioral
+830,Firmographic
+675,Technographic
+181,Behavioral
+682,Behavioral
+255,Demographic
+90,Firmographic
+946,Technographic
+732,Behavioral
+219,Firmographic
+617,Technographic
+785,Demographic
+949,Demographic
+901,Behavioral
+359,Behavioral
+905,Psychographic
+858,Psychographic
+478,Demographic
+348,Behavioral
+718,Behavioral
+549,Demographic
+959,Behavioral
+636,Demographic
+938,Behavioral
+862,Demographic
+963,Firmographic
+831,Firmographic
+202,Customer data
+790,Firmographic
+438,Psychographic
+430,Demographic
+561,Customer data
+524,Firmographic
+101,Customer data
+231,Psychographic
+61,Customer data
+384,Behavioral
+695,Customer data
+127,Technographic
+226,Demographic
+202,Technographic
+801,Technographic
+70,Firmographic
+411,Behavioral
+438,Demographic
+294,Psychographic
+995,Firmographic
+280,Customer data
+108,Behavioral
+638,Psychographic
+662,Customer data
+206,Psychographic
+498,Psychographic
+530,Behavioral
+119,Demographic
+463,Customer data
+68,Psychographic
+339,Technographic
+409,Technographic
+166,Customer data
+93,Demographic
+482,Psychographic
+914,Psychographic
+930,Behavioral
+239,Psychographic
+992,Firmographic
+50,Customer data
+816,Technographic
+539,Technographic
+482,Firmographic
+263,Technographic
+609,Demographic
+740,Firmographic
+756,Technographic
+683,Demographic
+201,Psychographic
+483,Psychographic
+278,Behavioral
+989,Behavioral
+70,Customer data
+708,Psychographic
+754,Firmographic
+682,Demographic
+571,Behavioral
+802,Firmographic
+982,Technographic
+626,Behavioral
+961,Psychographic
+720,Customer data
+826,Psychographic
+129,Firmographic
+878,Psychographic
+58,Psychographic
+410,Behavioral
+416,Demographic
+114,Behavioral
+146,Psychographic
+826,Psychographic
+911,Firmographic
+835,Firmographic
+311,Behavioral
+306,Psychographic
+999,Behavioral
+920,Behavioral
+326,Behavioral
+812,Technographic
+245,Technographic
+487,Firmographic
+536,Firmographic
+1,Demographic
+220,Firmographic
+106,Customer data
+1,Technographic
+376,Behavioral
+559,Firmographic
+813,Psychographic
+899,Customer data
+548,Technographic
+636,Customer data
+109,Demographic
+29,Behavioral
+546,Firmographic
+60,Demographic
+196,Behavioral
+642,Technographic
+20,Psychographic
+54,Firmographic
+177,Demographic
+600,Behavioral
+507,Behavioral
+526,Firmographic
+252,Behavioral
+126,Customer data
+979,Customer data
+910,Psychographic
+432,Firmographic
+332,Firmographic
+558,Customer data
+501,Behavioral
+1000,Behavioral
+722,Technographic
+462,Behavioral
+203,Psychographic
+305,Firmographic
+964,Behavioral
+974,Psychographic
+726,Firmographic
+756,Psychographic
+454,Customer data
+507,Behavioral
+671,Psychographic
+740,Behavioral
+520,Customer data
+840,Behavioral
+83,Technographic
+550,Behavioral
+311,Demographic
+364,Psychographic
+356,Customer data
+478,Psychographic
+102,Demographic
+85,Demographic
+711,Customer data
+674,Firmographic
+806,Customer data
+67,Technographic
+784,Psychographic
+485,Demographic
+245,Customer data
+383,Customer data
+32,Behavioral
+656,Customer data
+280,Technographic
+829,Firmographic
+32,Behavioral
+261,Psychographic
+401,Customer data
+606,Technographic
+664,Firmographic
+41,Firmographic
+178,Technographic
+10,Psychographic
+586,Psychographic
+653,Technographic
+235,Psychographic
+713,Psychographic
+727,Customer data
+637,Customer data
+678,Demographic
+987,Firmographic
+924,Technographic
+964,Behavioral
+52,Customer data
+497,Customer data
+801,Technographic
+930,Behavioral
+693,Psychographic
+54,Behavioral
+553,Firmographic
+987,Firmographic
+132,Demographic
+627,Firmographic
+177,Behavioral
+943,Firmographic
+730,Firmographic
+586,Psychographic
+605,Firmographic
+343,Psychographic
+992,Firmographic
+142,Demographic
+229,Technographic
+698,Customer data
+234,Firmographic
+388,Behavioral
+420,Customer data
+381,Demographic
+65,Demographic
+246,Customer data
+331,Psychographic
+616,Technographic
+267,Psychographic
+935,Behavioral
+212,Demographic
+191,Technographic
+254,Customer data
+572,Psychographic
+752,Firmographic
+290,Technographic
+201,Firmographic
+391,Behavioral
+273,Customer data
+847,Customer data
+972,Technographic
+308,Demographic
+64,Technographic
+527,Behavioral
+665,Psychographic
+692,Technographic
+952,Psychographic
+101,Psychographic
+877,Psychographic
+57,Firmographic
+730,Psychographic
+971,Customer data
+309,Psychographic
+404,Firmographic
+120,Demographic
+449,Customer data
+914,Psychographic
+798,Behavioral
+636,Customer data
+816,Customer data
+30,Customer data
+452,Customer data
+236,Customer data
+462,Psychographic
+269,Behavioral
+98,Demographic
+959,Technographic
+818,Behavioral
+446,Behavioral
+366,Demographic
+115,Behavioral
+997,Behavioral
+883,Behavioral
+479,Firmographic
+751,Technographic
+374,Customer data
+648,Firmographic
+728,Behavioral
+299,Technographic
+802,Behavioral
+918,Demographic
+573,Behavioral
+413,Demographic
+559,Technographic
+536,Customer data
+993,Psychographic
+701,Technographic
+645,Psychographic
+955,Demographic
+5,Customer data
+907,Behavioral
+340,Customer data
+818,Demographic
+926,Technographic
+75,Customer data
+163,Demographic
+262,Demographic
+386,Technographic
+518,Firmographic
+496,Psychographic
+64,Demographic
+463,Firmographic
+711,Firmographic
+963,Customer data
+894,Firmographic
+579,Demographic
+354,Psychographic
+914,Psychographic
+614,Customer data
+186,Firmographic
+813,Customer data
+507,Customer data
+756,Firmographic
+854,Firmographic
+792,Psychographic
+189,Behavioral
+55,Customer data
+948,Firmographic
+768,Customer data
+934,Behavioral
+121,Demographic
+285,Technographic
+393,Psychographic
+895,Firmographic
+56,Customer data
+768,Demographic
+750,Demographic
+97,Customer data
+55,Behavioral
+983,Behavioral
+769,Demographic
+26,Psychographic
+968,Firmographic
+262,Demographic
+529,Firmographic
+686,Customer data
+818,Firmographic
+378,Customer data
+514,Technographic
+589,Technographic
+2,Behavioral
+25,Customer data
+920,Demographic
+249,Technographic
+379,Firmographic
+785,Customer data
+30,Firmographic
+390,Customer data
+949,Psychographic
+269,Psychographic
+283,Behavioral
+270,Behavioral
+543,Psychographic
+555,Customer data
+59,Customer data
+226,Technographic
+443,Firmographic
+140,Psychographic
+703,Demographic
+93,Psychographic
+601,Technographic
+143,Customer data
+560,Demographic
+851,Demographic
+185,Psychographic
+717,Customer data
+319,Psychographic
+49,Behavioral
+80,Demographic
+962,Behavioral
+328,Firmographic
+48,Customer data
+219,Demographic
+495,Demographic
+864,Psychographic
+920,Firmographic
+105,Behavioral
+378,Behavioral
+584,Customer data
+954,Technographic
+450,Demographic
+473,Customer data
+333,Psychographic
+347,Demographic
+722,Customer data
+132,Demographic
+223,Psychographic
+87,Technographic
+810,Customer data
+236,Demographic
+742,Behavioral
+566,Psychographic
+11,Psychographic
+868,Customer data
+475,Customer data
+853,Behavioral
+654,Demographic
+24,Technographic
+302,Demographic
+334,Customer data
+42,Behavioral
+299,Demographic
+384,Behavioral
+614,Technographic
+68,Technographic
+849,Behavioral
+577,Technographic
+519,Behavioral
+608,Psychographic
+64,Customer data
+484,Psychographic
+341,Firmographic
+440,Customer data
+358,Demographic
+912,Customer data
+426,Behavioral
+194,Demographic
+177,Customer data
+687,Technographic
+745,Technographic
+196,Firmographic
+199,Demographic
+985,Behavioral
+752,Firmographic
+175,Technographic
+156,Demographic
+311,Psychographic
+184,Behavioral
+172,Demographic
+103,Psychographic
+792,Psychographic
+582,Technographic
+525,Behavioral
+918,Firmographic
+674,Demographic
+935,Behavioral
+625,Firmographic
+797,Customer data
+459,Firmographic
+456,Technographic
+264,Behavioral
+126,Psychographic
+219,Psychographic
+435,Customer data
+740,Psychographic
+917,Technographic
+30,Firmographic
+766,Demographic
+406,Firmographic
+562,Demographic
+513,Customer data
+897,Firmographic
+782,Technographic
+219,Demographic
+832,Behavioral
+398,Firmographic
+22,Firmographic
+803,Psychographic
+282,Demographic
+881,Demographic
+521,Firmographic
+373,Firmographic
+580,Firmographic
+977,Demographic
+857,Psychographic
+440,Technographic
+656,Demographic
+217,Firmographic
+788,Technographic
+399,Customer data
+767,Behavioral
+157,Customer data
+590,Psychographic
+145,Psychographic
+843,Customer data
+436,Customer data
+23,Demographic
+530,Psychographic
+692,Demographic
+493,Demographic
+982,Demographic
+356,Customer data
+813,Behavioral
+996,Demographic
+881,Firmographic
+158,Behavioral
+798,Demographic
+897,Firmographic
+479,Psychographic
+925,Demographic
+657,Behavioral
+640,Customer data
+236,Technographic
+334,Demographic
+896,Psychographic
+666,Technographic
+30,Customer data
+904,Demographic
+701,Demographic
+553,Behavioral
+474,Behavioral
+683,Psychographic
+278,Behavioral
+832,Technographic
+861,Firmographic
+902,Firmographic
+875,Psychographic
+557,Technographic
+96,Technographic
+117,Firmographic
+700,Technographic
+464,Psychographic
+942,Technographic
+524,Customer data
+699,Behavioral
+623,Psychographic
+831,Firmographic
+943,Customer data
+901,Technographic
+900,Customer data
+423,Firmographic
+514,Behavioral
+787,Technographic
+111,Behavioral
+221,Customer data
+372,Customer data
+728,Technographic
+506,Customer data
+905,Customer data
+614,Behavioral
+792,Technographic
+520,Psychographic
+936,Demographic
+198,Psychographic
+834,Customer data
+171,Demographic
+421,Firmographic
+6,Demographic
+717,Firmographic
+182,Demographic
+699,Technographic
+940,Behavioral
+55,Psychographic
+529,Behavioral
+380,Behavioral
+145,Firmographic
+674,Firmographic
+687,Psychographic
+962,Firmographic
+194,Firmographic
+197,Technographic
+691,Demographic
+624,Customer data
+87,Psychographic
+595,Psychographic
+343,Demographic
+601,Firmographic
+485,Firmographic
+660,Psychographic
+935,Demographic
+850,Demographic
+741,Behavioral
+8,Firmographic
+40,Firmographic
+453,Customer data
+629,Behavioral
+742,Demographic
+469,Technographic
+238,Firmographic
+649,Behavioral
+936,Firmographic
+201,Firmographic
+753,Firmographic
+711,Behavioral
+52,Customer data
+29,Demographic
+724,Customer data
+15,Psychographic
+392,Demographic
+162,Demographic
+199,Behavioral
+643,Technographic
+250,Psychographic
+467,Technographic
+687,Psychographic
+957,Behavioral
+382,Behavioral
+365,Firmographic
+213,Customer data
+170,Technographic
+40,Firmographic
+110,Customer data
+880,Firmographic
+560,Firmographic
+317,Behavioral
+394,Customer data
+453,Customer data
+782,Firmographic
+590,Psychographic
+804,Firmographic
+92,Behavioral
+185,Technographic
+916,Psychographic
+804,Demographic
+768,Psychographic
+318,Customer data
+182,Behavioral
+17,Firmographic
+990,Behavioral
+409,Technographic
+48,Technographic
+438,Psychographic
+973,Firmographic
+990,Demographic
+254,Firmographic
+654,Technographic
+193,Customer data
+767,Firmographic
+109,Demographic
+561,Firmographic
+491,Firmographic
+327,Firmographic
+705,Demographic
+800,Firmographic
+109,Customer data
+163,Customer data
+314,Technographic
+772,Firmographic
+268,Customer data
+302,Demographic
+574,Customer data
+87,Customer data
+418,Demographic
+792,Behavioral
+840,Customer data
+863,Behavioral
+550,Firmographic
+90,Behavioral
+154,Psychographic
+925,Customer data
+184,Demographic
+532,Behavioral
+90,Psychographic
+58,Psychographic
+512,Demographic
+203,Psychographic
+378,Psychographic
+417,Demographic
+816,Demographic
+31,Customer data
+205,Demographic
+770,Psychographic
+932,Behavioral
+513,Firmographic
+448,Psychographic
+466,Technographic
+524,Psychographic
+787,Technographic
+280,Technographic
+156,Psychographic
+198,Technographic
+23,Demographic
+920,Behavioral
+332,Demographic
+692,Firmographic
+909,Firmographic
+196,Technographic
+708,Technographic
+723,Behavioral
+111,Behavioral
+307,Firmographic
+108,Technographic
+210,Firmographic
+666,Firmographic
+148,Demographic
+224,Behavioral
+889,Technographic
+965,Firmographic
+369,Customer data
+645,Customer data
+102,Customer data
+508,Psychographic
+412,Firmographic
+368,Psychographic
+605,Psychographic
+801,Firmographic
+679,Technographic
+926,Technographic
+298,Psychographic
+198,Technographic
+70,Behavioral
+740,Behavioral
+205,Psychographic
+652,Demographic
+5,Technographic
+878,Customer data
+111,Firmographic
+819,Firmographic
+367,Technographic
+613,Psychographic
+841,Firmographic
+106,Psychographic
+25,Customer data
+105,Customer data
+316,Technographic
+890,Psychographic
+979,Demographic
+51,Demographic
+179,Customer data
+309,Behavioral
+886,Technographic
+505,Behavioral
+157,Behavioral
+122,Psychographic
+28,Demographic
+380,Behavioral
+890,Behavioral
+868,Technographic
+874,Behavioral
+775,Demographic
+237,Psychographic
+38,Technographic
+281,Customer data
+171,Demographic
+668,Customer data
+182,Demographic
+898,Firmographic
+147,Technographic
+119,Customer data
+253,Technographic
+546,Demographic
+812,Behavioral
+978,Firmographic
+290,Firmographic
+88,Firmographic
+546,Behavioral
+779,Psychographic
+229,Customer data
+703,Technographic
+828,Firmographic
+105,Demographic
+529,Firmographic
+659,Customer data
+178,Demographic
+478,Firmographic
+422,Technographic
+172,Behavioral
+718,Customer data
+676,Demographic
+592,Psychographic
+493,Customer data
+137,Psychographic
+299,Behavioral
+490,Technographic
+237,Demographic
+852,Demographic
+649,Firmographic
+400,Psychographic
+308,Demographic
+643,Demographic
+595,Customer data
+282,Technographic
+551,Technographic
+179,Firmographic
+323,Behavioral
+815,Customer data
+431,Psychographic
+121,Behavioral
+829,Firmographic
+886,Demographic
+456,Technographic
+84,Firmographic
+94,Demographic
+719,Demographic
+831,Behavioral
+44,Demographic
+81,Firmographic
+149,Firmographic
+732,Psychographic
+984,Customer data
+608,Psychographic
+516,Firmographic
+671,Psychographic
+173,Technographic
+156,Psychographic
+977,Customer data
+925,Demographic
+906,Firmographic
+749,Behavioral
+744,Psychographic
+377,Technographic
+743,Demographic
+653,Customer data
+416,Psychographic
+208,Technographic
+251,Behavioral
+139,Technographic
+554,Customer data
+51,Technographic
+840,Customer data
+750,Behavioral
+784,Technographic
+561,Customer data
+500,Customer data
+868,Demographic
+143,Customer data
+166,Behavioral
+960,Firmographic
+155,Technographic
+565,Demographic
+982,Firmographic
+188,Firmographic
+734,Firmographic
+901,Customer data
+6,Psychographic
+528,Demographic
+182,Technographic
+440,Psychographic
+771,Technographic
+569,Technographic
+301,Behavioral
+342,Behavioral
+202,Customer data
+319,Firmographic
+825,Demographic
+374,Demographic
+711,Firmographic
+465,Firmographic
+573,Behavioral
+356,Technographic
+686,Behavioral
+264,Customer data
+754,Firmographic
+400,Demographic
+675,Technographic
+440,Behavioral
+996,Psychographic
+345,Firmographic
+757,Psychographic
+236,Customer data
+986,Customer data
+960,Firmographic
+515,Customer data
+590,Demographic
+658,Technographic
+496,Customer data
+627,Demographic
+647,Behavioral
+669,Demographic
+983,Technographic
+504,Customer data
+135,Firmographic
+1,Psychographic
+888,Firmographic
+72,Psychographic
+695,Demographic
+550,Customer data
+725,Firmographic
+491,Customer data
+335,Demographic
+502,Psychographic
+399,Behavioral
+118,Behavioral
