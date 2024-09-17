@@ -1,17 +1,20 @@
+import os 
 import json
 import pandas as pd
 import logging
 from kafka import KafkaProducer
 from redis_cache import get_last_processed_line, set_last_processed_line
+from dotenv import load_dotenv
+load_dotenv() 
 
 
 producer = KafkaProducer(
-    bootstrap_servers=['kafka:29092'],
+    bootstrap_servers=[os.getenv("KAFKA_BROKER_URL")],
     value_serializer=lambda v: json.dumps(v).encode('utf-8')
 )
 
 logging.basicConfig(
-    filename="/app/logs/process.log",
+    filename=os.getenv("LOGGING_FILE"),
     format='%(asctime)s %(levelname)s: %(message)s',
     filemode='w',
     level=logging.INFO
