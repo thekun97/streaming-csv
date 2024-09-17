@@ -10,6 +10,14 @@ producer = KafkaProducer(
     value_serializer=lambda v: json.dumps(v).encode('utf-8')
 )
 
+logging.basicConfig(
+    filename="/app/logs/process.log",
+    format='%(asctime)s %(levelname)s: %(message)s',
+    filemode='w',
+    level=logging.INFO
+)
+logger = logging.getLogger()
+
 def process_csv_file(file_path, kafka_topic, batch_size=1):
     last_processed_line = get_last_processed_line(kafka_topic)
     chunksize = batch_size
@@ -19,9 +27,9 @@ def process_csv_file(file_path, kafka_topic, batch_size=1):
         for _, row in chunk.iterrows():
             data_record = row.to_dict()
             producer.send(kafka_topic, value=data_record).add_callback(
-                lambda record_metadata: print(f"Sent: {record_metadata.topic} [{record_metadata.partition}] @ {record_metadata.offset}")
+                lambda record_metadata: logger.info(f"Sent: {chunk.index[-1]} to {record_metadata.topic}")
             ).add_errback(
-                lambda exc: print(f"Failed to send message: {exc}")
+                lambda exc: logger.info(f"Failed to send message: {exc}")
             )
             producer.flush()
 
